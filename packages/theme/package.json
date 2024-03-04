@@ -12,9 +12,5 @@
     "vitepress": "^1.0.0-rc.44"
   },
   "author": "fengwang",
-  "license": "MIT",
-  "dependencies": {
-    "@metalsjs/theme": "workspace:^",
-    "example": "workspace:^"
-  }
+  "license": "MIT"
 }
