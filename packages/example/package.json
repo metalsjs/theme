@@ -1,0 +1,14 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "description": "@metalsjs/theme的展示示例",
+  "keywords": [],
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.44"
+  },
+  "author": "fengwang",
+  "license": "MIT",
+  "dependencies": {
+    "@metalsjs/theme": "workspace:^"
+  }
+}
