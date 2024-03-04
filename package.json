@@ -1,0 +1,16 @@
+{
+  "name": "theme",
+  "version": "0.0.1",
+  "description": "一个简约风的VitePress博客主题",
+  "keywords": [],
+  "author": "fengwang",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.44"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  }
+}
