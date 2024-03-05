@@ -4,8 +4,8 @@
   "description": "一个简约风的VitePress博客主题",
   "scripts": {
     "changeset": "changeset",
-    "version": "changeset version",
-    "publish": "changeset && changeset version && changeset publish --tag beta"
+    "version": "changeset && changeset version",
+    "publish": "changeset publish --tag beta"
   },
   "devDependencies": {
     "@changesets/cli": "^2.27.1"

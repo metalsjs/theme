@@ -1,6 +1,6 @@
 {
   "name": "@metalsjs/theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "一个简约风的VitePress博客主题",
   "keywords": [],
   "scripts": {
