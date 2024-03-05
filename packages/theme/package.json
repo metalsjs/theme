@@ -11,6 +11,10 @@
   "devDependencies": {
     "vitepress": "^1.0.0-rc.44"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "author": "fengwang",
   "license": "MIT"
 }
